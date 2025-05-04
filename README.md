@@ -55,4 +55,4 @@ This repository contains two versions of the simulation code:
 To run a basic simulation with image export:
 
 ```python
-python wound_healing_simulation.py
+python ProjectWAVES_cleaned.py
